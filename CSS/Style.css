@@ -1,1 +1,21 @@
+header {
+  height: 475px;
 
+  background-image:
+    linear-gradient(to right, #35a19eff, #35a19e00),
+    url("../Images/HaLongBay.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.customPos {
+  padding-top: 30px;
+  padding-left: 40px;
+}
+h1 {
+  color: #682520 !important;
+}
+h5 {
+  color: #45050c !important;
+}
