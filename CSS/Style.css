@@ -1,14 +1,19 @@
 header {
-  height: 475px;
-
-  background-image:
-    linear-gradient(to right, #35a19eff, #35a19e00),
-    url("../Images/HaLongBay.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  height: 500px;
+  background-color: rgb(16, 119, 134);
 }
-
+.boardingPass {
+  background-color: rgb(215, 240, 238);
+  height: 500px;
+  justify-content: center;
+  display: flex;
+}
+.passBox {
+  width: 80%;
+  height: 300px;
+  background-color: #fbf8f2;
+  border-radius: 6px;
+}
 .customPos {
   padding-top: 30px;
   padding-left: 40px;
